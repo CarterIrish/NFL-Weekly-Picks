@@ -1,0 +1,49 @@
+:root {
+  /* AFC East */
+  --buffalo-bills: #00338D;
+  --miami-dolphins: #008E97;
+  --new-england-patriots: #002244;
+  --new-york-jets: #125740;
+
+  /* AFC North */
+  --baltimore-ravens: #241773;
+  --pittsburgh-steelers: #FFB612;
+  --cleveland-browns: #311D00;
+  --cincinnati-bengals: #FB4F14;
+
+  /* AFC South */
+  --houston-texans: #03202F;
+  --indianapolis-colts: #002C5F;
+  --jacksonville-jaguars: #006687;
+  --tennessee-titans: #0C2C56;
+
+  /* AFC West */
+  --denver-broncos: #FB4F14;
+  --kansas-city-chiefs: #E31937;
+  --los-angeles-chargers: #0080B4;
+  --las-vegas-raiders: #000000;
+
+  /* NFC East */
+  --dallas-cowboys: #003594;
+  --philadelphia-eagles: #004687;
+  --washington-commanders: #5A1D36;
+  --new-york-giants: #0B2350;
+
+  /* NFC North */
+  --chicago-bears: #0B162A;
+  --detroit-lions: #0076B6;
+  --green-bay-packers: #203731;
+  --minnesota-vikings: #4F2683;
+
+  /* NFC South */
+  --atlanta-falcons: #A71930;
+  --carolina-panthers: #0085CA;
+  --new-orleans-saints: #D3BC8D;
+  --tampa-bay-buccaneers: #A71930;
+
+  /* NFC West */
+  --arizona-cardinals: #97233F;
+  --los-angeles-rams: #003831;
+  --san-francisco-49ers: #AA0000;
+  --seattle-seahawks: #002244;
+}

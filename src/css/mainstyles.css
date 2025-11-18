@@ -1,0 +1,28 @@
+@import url(nfl-colors.css);
+
+.teams {
+    display: flex;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.team-btn {
+    flex: 1;
+    padding: 20px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin: 0;
+}
+
+.team-btn:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+}
+
+.team-btn:active {
+    transform: scale(0.98);
+}
